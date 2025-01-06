@@ -1,4 +1,4 @@
-This is the main code, insert it into the SDAT(https://github.com/val-iisc/SDAT) to run, the full version will be sent after sorting
+This is the main code of paper "Exploring Latent Transferability of feature components", insert it into the SDAT(https://github.com/val-iisc/SDAT) to run, the full version will be sent after sorting
 
 ## Acknowledgement
 Our implementation is based on the [Transfer Learning Library](https://github.com/thuml/Transfer-Learning-Library) and SDAT(https://github.com/val-iisc/SDAT). We use the PyTorch implementation of SAM from https://github.com/davda54/sam.
