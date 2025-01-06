@@ -7,4 +7,12 @@ Our implementation is based on the [Transfer Learning Library](https://github.co
 ## Citation
 If you find our paper or codebase useful, please consider citing us as:
 ```latex
+@article{wang2024exploring,
+  title={Exploring Latent Transferability of feature components},
+  author={Wang, Zhengshan and Chen, Long and He, Juan and Yang, Linyao and Wang, Fei-Yue},
+  journal={Pattern Recognition},
+  pages={111184},
+  year={2024},
+  publisher={Elsevier}
+}
 ```
